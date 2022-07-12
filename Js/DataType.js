@@ -1,7 +1,7 @@
 // Primitive data types
 
 // String
-let name = "harry";
+let name = "Prahlad";
 console.log("My string is " + name);
 console.log("Data type is " + (typeof name));
 
